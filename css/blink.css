@@ -1,0 +1,295 @@
+@font-face{
+    src: url(../fonts/Merriweather-Light.ttf);
+    font-family: Merriweather;
+    
+}
+
+@font-face{
+    src: url(../fonts/Montserrat-ExtraLight.ttf);
+    font-family: Montserrat;
+}
+@font-face{
+    src: url(../fonts/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+}
+
+main
+{
+    text-align: center;
+}
+
+html
+{
+    font: 62.5%;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.headerblink{
+    background-color: black;
+    height: 25rem;
+}
+.blink{
+    font-size: 90px;
+    padding-top: 7rem;
+    border-bottom:deeppink solid 1px;
+    padding-bottom: 7rem;
+    font-family: Sacramento;
+    color: deeppink;
+
+}
+.home{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: black;
+    color:deeppink;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.home:hover{
+    color:white;
+}
+.sectionblink{
+    padding:1rem;
+    background-image: url(../img/glitter.jpg);
+}
+
+.joyce
+{
+    width: 22rem;
+    position: absolute;
+    left: 10%;
+}
+.joylist
+{
+    width: 22rem;
+    height: 39%;
+    position: absolute;
+    right: 10%;
+}
+.Nicole
+{
+    width: 22rem;
+    position: absolute;
+    top: 130%;
+    left: 10%;
+}
+.nicolist
+{
+    
+    width: 22rem;
+    height: 39%;
+    position: absolute;
+    top: 130%;
+    right: 10%;
+}
+.Leen
+{
+    width: 22rem;
+    position: absolute;
+    top: 185%;
+    left: 10%;
+}
+.Leenist
+{
+    width: 22rem;
+    height: 39%;
+    top: 185%;
+    position: absolute;
+    right: 10%;
+}
+.Denchel
+{
+    width: 22rem;
+    position: absolute;
+    top: 240%;
+    left: 10%;
+}
+.Denlist
+{
+    width: 22rem;
+    height: 39%;
+    position: absolute;
+    top: 240%;
+    right: 10%;
+}
+.siclarence
+{
+    width: 22rem;
+    position: absolute;
+    top: 295%;
+    left: 10%;
+}
+.playlistding
+{
+    width: 22rem;
+    height: 39%;
+    top: 295%;
+    position: absolute;
+    right: 10%;
+}
+.una{
+    color: deeppink;
+    margin-top: 5rem;
+    margin-bottom: 17.5rem;
+    font-size: 10px;
+
+}
+
+.second{
+    color: deeppink;
+    margin-bottom: 18rem;
+    color: deeppink;
+    font-size: 10px;
+}
+
+.third{
+    margin-top: 2%;
+    margin-bottom: 18rem;
+    color: deeppink;
+    font-size: 10px;
+
+}
+.fourth
+{
+    margin-top: 2%;
+    margin-bottom: 18rem;
+    color: deeppink;
+    font-size: 10px;
+}
+.fifth
+{
+    margin-top: 2%;
+    margin-bottom: 19rem;
+    color: deeppink;
+    font-size: 10px;
+
+}
+footer{
+    height: 15vh;
+    padding-top: 30px;
+    background-color: black;
+    border-top: deeppink solid 1px;
+}
+.facebook{
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 4px;
+}
+.twitter{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px;
+}
+.instagram{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 4px;
+}
+.copy{
+    padding: 25px;
+    color: deeppink;
+    font-size: 15px;
+    font-family: Merriweather;
+}
+
+.name{
+    padding-top: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+.lisa{
+    margin-top: 10rem;
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:white;
+    text-decoration: none;
+}
+
+.lisa:hover{
+    color:deeppink;
+}
+.jisoo{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:white;
+    text-decoration: none;
+}
+.jisoo:hover{
+    color:deeppink;
+}
+.jennie{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:white;
+    text-decoration: none;
+}
+.jennie:hover{
+    color:deeppink;
+}
+.rose{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:white;
+    text-decoration: none;
+}
+.rose:hover{
+    color:deeppink;
+}
+
+.blinkers{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:white;
+    text-decoration: none;
+
+}
+.blinkers:hover{
+    color:deeppink;
+}
+
+.heart{
+    width: 15rem;
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+}
+.heart2{
+    width: 15rem;
+    position: absolute;
+    top: 4rem;
+    right: 4rem;
+}

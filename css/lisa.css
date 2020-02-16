@@ -1,0 +1,195 @@
+@font-face{
+    src: url(../fonts/Merriweather-Light.ttf);
+    font-family: Merriweather;
+    
+}
+
+@font-face{
+    src: url(../fonts/Montserrat-ExtraLight.ttf);
+    font-family: Montserrat;
+}
+@font-face{
+    src: url(../fonts/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+}
+
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    text-align: center;
+}
+
+html
+{
+    font: 62.5%;
+}
+
+.lisaheader{
+    height:100vh;
+    background-image: url(../img/lisa.jpg);
+    background-size: cover;
+}
+
+
+.home{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: black;
+    color:deeppink;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.home:hover{
+    color:white;
+}
+
+.blink{
+    font-family: Sacramento;
+    font-size: 5rem;
+    text-align: center;
+    color: deeppink;
+    padding-top: 40rem;
+    padding-bottom: 20px;
+
+}
+
+.facts{
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+h3{
+    font-size: 25px ;
+}
+header{
+    background-color: black;
+
+}
+
+.sectionlisa{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Merriweather;
+    background-color: black;
+    padding-bottom: 20px;
+    padding-top:10rem;
+}
+
+footer{
+    height: 15vh;
+    padding-top: 30px;
+    background-color: black;
+    border-top: deeppink solid 1px;
+}
+.facebook{
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 4px;
+}
+.twitter{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px;
+}
+.instagram{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 4px;
+}
+.copy{
+    padding: 25px;
+    color: deeppink;
+    font-size: 15px;
+    font-family: Montserrat;
+
+}
+
+.lisa{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+
+.lisa:hover{
+    color:deeppink;
+}
+.jisoo{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.jisoo:hover{
+    color:deeppink;
+}
+.jennie{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.jennie:hover{
+    color:deeppink;
+}
+.rose{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.rose:hover{
+    color:deeppink;
+}
+.blinkers{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+
+}
+.blinkers:hover{
+    color:deeppink;
+}
+.name{
+    padding-top: 25px;
+    text-decoration: none;
+    color: black;
+
+}

@@ -1,0 +1,289 @@
+@font-face{
+    src: url(../fonts/Merriweather-Light.ttf);
+    font-family: Merriweather;
+    
+}
+
+@font-face{
+    src: url(../fonts/Montserrat-ExtraLight.ttf);
+    font-family: Montserrat;
+}
+@font-face{
+    src: url(../fonts/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+}
+
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+main
+{
+    text-align: center;
+}
+
+html
+{
+    font: 62.5%;
+}
+.names
+{
+    padding-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+.titlebp{
+    margin: 25rem;
+}
+
+.header{
+    height:100vh;
+    background-image: url(../img/wallpaper.jpg);
+    background-size: cover;
+}
+.section{
+    height: 420vh;
+    background-image: url(../img/glitter.jpg);
+    color: white;
+}
+.intro{
+    padding: 3rem;
+    font-family: Merriweather;
+    line-height: 29px;
+    clear: right;
+    text-align: justify;
+}
+.content{
+    clear: right;
+    text-align: justify;
+    
+}
+
+
+.title
+{
+    text-align: center;  
+    color: deeppink;
+    font-size: 100px;
+    font-family: Merriweather;
+    position: relative;
+}
+.subtitle
+{
+    text-align: center;  
+    color: deeppink;
+    font-size: 3rem;
+    position: relative;
+}
+.name{
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+h1
+{
+   font-family: Montserrat;
+   font-size: 15px;
+   color: deeppink;
+}
+
+
+footer{
+    height: 15vh;
+    padding-top: 30px;
+    background-color: black;
+    border-top: deeppink solid 1px;
+}
+.facebook{
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 4px;
+}
+.twitter{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px;
+}
+.instagram{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 4px;
+}
+.copy{
+    padding: 25px;
+}
+.lisa{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+
+.lisa:hover{
+    color:deeppink;
+}
+.jisoo{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.jisoo:hover{
+    color:deeppink;
+}
+.jennie{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.jennie:hover{
+    color:deeppink;
+}
+.rose{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+}
+.rose:hover{
+    color:deeppink;
+}
+
+.homee{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: black;
+    color:deeppink;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.homee:hover{
+    color:white;
+}
+
+.blinkers{
+    font-size: 20px;
+    padding: 5px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    background-color:transparent;
+    color:black;
+    text-decoration: none;
+
+}
+.blinkers:hover{
+    color:deeppink;
+}
+
+
+/*jennie*/
+
+.jennieabout{
+    text-align: center;
+}
+
+
+
+.player{
+    width: 40%;
+    float: left;
+    margin-right:3rem  ;
+}
+
+.video{
+    margin-top: 5rem;
+    width: 70%;
+    padding-top: 50px;
+    
+}
+
+.videoplayer{
+    text-align: center;
+}
+
+.imagess{
+    margin-top:3rem ;
+}
+
+.one{
+    width: 30%;
+}
+.two{
+    width: 30%;
+}
+.three{
+    width: 31%;
+}
+.four{
+    width: 30%;
+    margin-right: 52px;
+    margin-top:2rem;
+}
+.five{
+    width: 30%;
+    margin-right: 55px;
+    margin-top:2rem;
+}
+.six{
+    width: 30%;
+    margin-top:2rem;
+}
+
+.about{
+    font-family: Sacramento;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+
+.facts1{
+    margin-top: 13rem;
+    margin-bottom: 3rem;
+    clear: left;
+    text-align: justify;
+}
+
+.another2{
+    margin-top: 5rem;
+    width: 40%;
+    float: right;
+    margin-left:3rem  ;
+}
+.album{
+    font-family: Sacramento;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 7rem;}
